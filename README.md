@@ -1,2 +1,3 @@
-# Amazon-Clone
-Technology used :HTML And CSS.
+# Amazon-Clone (Fronted Only)
+Technology used : HTML And CSS.
+Home Page
